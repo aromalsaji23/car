@@ -4,3 +4,9 @@ pandas==2.0.3
 numpy
 streamlit
 pandas
+streamlit==1.22.0
+numpy==1.24.4
+pandas==2.0.3
+protobuf==3.20.3
+altair==4.2.2
+# Add any other libraries you need
